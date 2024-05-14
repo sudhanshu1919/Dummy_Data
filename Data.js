@@ -1,4 +1,4 @@
-const AllData = [
+[
   {
     id: "1",
     type: "Free",
@@ -21,5 +21,3 @@ const AllData = [
       "30 users included 15 GB of storage Phone and email support Help center access",
   },
 ];
-
-console.log(AllData);
